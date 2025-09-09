@@ -30,12 +30,7 @@ Git
 vs code
 
 ### Installation instruction
-git clone git@github.com:CODER-41/wk1-Code-Challenge.git
-git innit
-git add .
-git status
-git commit
-git push to main origin
+git clone: https://github.com/CODER-41/wk1-Code-Challenge.git
 
 ```
 
