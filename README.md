@@ -35,7 +35,7 @@ git clone: https://github.com/CODER-41/wk1-Code-Challenge.git
 ```
 
 # Live Link: https://github.com/CODER-41/wk1-Code-Challenge.git
-[Git](gh-pages link
+[Git](github pages link: https://coder-41.github.io/wk1-Code-Challenge/
 
 ## Technologies used
 Github
